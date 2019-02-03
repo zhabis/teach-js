@@ -10,7 +10,7 @@ Clone and make changes
 - item2
   - sub 1
   - sub 2
-- Kukushka
+- Kukushka (lyagushka pomenyal na githube)
 
 
 <h2>Heading 2 rukami</h2>
